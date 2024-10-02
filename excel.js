@@ -363,7 +363,7 @@
                                                       'COMPANY_CODE': rec[3].trim(),
                                                       'ASSET_CLASS': rec[4].trim(),
                                                       'COST_CENTER': rec[5].trim(),
-                                                      'CWIP': rec[6].trim(),
+                                                      'CWP': rec[6].trim(),
                                                     });
                                                 }
                                             }
